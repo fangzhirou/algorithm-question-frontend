@@ -15,6 +15,5 @@ class Solution {
                 majorityEntry = entry;
             }
         }
-
         return majorityEntry.getKey();
     }
